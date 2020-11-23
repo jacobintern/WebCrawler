@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgT7y0VNnKkBo6F8Ax/5SrvP0ouU/mC9SN9rqaoaO2NAwHyEaRl04/f6e+cwGkgKrXFMNLG+X/CdA86hWY5qDQ==",
+  "success": true,
+  "projectFilePath": "/Users/YIHONGLIN/project/dotnet/app/app.csproj",
+  "expectedPackageFiles": [
+    "/Users/YIHONGLIN/.nuget/packages/anglesharp/0.14.0/anglesharp.0.14.0.nupkg.sha512",
+    "/Users/YIHONGLIN/.nuget/packages/csvhelper/16.1.0/csvhelper.16.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.runtime.compilerservices.unsafe/4.5.0/system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.text.encoding.codepages/4.5.0/system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

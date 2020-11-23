@@ -1,0 +1,15 @@
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/app.deps.json
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.json
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/app.runtimeconfig.dev.json
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/app.dll
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/app.pdb
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.csprojAssemblyReference.cache
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.AssemblyInfoInputs.cache
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.AssemblyInfo.cs
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.csproj.CoreCompileInputs.cache
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.dll
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.pdb
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.genruntimeconfig.cache
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/AngleSharp.dll
+/Users/YIHONGLIN/project/dotnet/app/obj/Debug/netcoreapp3.1/app.csproj.CopyComplete
+/Users/YIHONGLIN/project/dotnet/app/bin/Debug/netcoreapp3.1/CsvHelper.dll
